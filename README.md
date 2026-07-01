@@ -1,4 +1,4 @@
-# 🦾⚖️ AgentEvals
+# AgentEvals
 
 [Agentic applications](https://langchain-ai.github.io/langgraph/concepts/agentic_concepts/) give an LLM freedom over control flow in order to solve problems. While this freedom
 can be extremely powerful, the black box nature of LLMs can make it difficult to understand how changes in one part of your agent will affect others downstream.
